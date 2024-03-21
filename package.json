@@ -1,0 +1,28 @@
+{
+  "name": "cumquelibero",
+  "version": "1.0.0",
+  "description": "JavaScript polyfill for the WHATWG spec of focusOptions, that enables a set of options to be passed to the focus method.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoleSchimmel/cumquelibero.git"
+  },
+  "keywords": [
+    "consectetur",
+    "polyfill",
+    "javascript-polyfill",
+    "focus",
+    "whatwg",
+    "whatwg-dom",
+    "fugiat"
+  ],
+  "author": "KylieSimonis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KoleSchimmel/cumquelibero.git/issues"
+  },
+  "homepage": "https://github.com/KoleSchimmel/cumquelibero.git",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
